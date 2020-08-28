@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920117140968",
+    "firebase_url": "https://spm-countdown.firebaseio.com",
+    "project_id": "spm-countdown",
+    "storage_bucket": "spm-countdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920117140968:android:708b62ed1fd004a32a985d",
+        "android_client_info": {
+          "package_name": "com.bryansoong.spm_countdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920117140968-qjs1a07laaoo07cq7g74ge08q02rva50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bryansoong.spm_countdown",
+            "certificate_hash": "40497ccf924335a9c3079eb108bc52a361886e04"
+          }
+        },
+        {
+          "client_id": "920117140968-uv6uj056m8n3r02nj4dl1f98o9q3n0k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbWoRr-eYnwPNWpNbKPoqjxJW6Ks46sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920117140968-uv6uj056m8n3r02nj4dl1f98o9q3n0k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
